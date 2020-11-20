@@ -1,9 +1,9 @@
-#Tile numbering
+# Tile numbering
 
 This is a picture of my rendering of Madis Moon 1
 ![](MadisMoon1Tile0.png)
 
-##Pentagons
+## Pentagons
 0-11 are the 12 pentagons placed around the planet in the picture marked as green
 
 | TileId | Neighbours |
@@ -21,7 +21,7 @@ This is a picture of my rendering of Madis Moon 1
 | 10     | 2,3,5,6,11 |
 | 11     | 0,1,5,6,10 |
 
-##Connecting lines
+## Connecting lines
 next are the cells that connect the pentagons, in the picture marked as blue, they are numbered in following order and direction
 
 | Direction Pentagon -> Pentagon | Tile numbers on Madis Moon 1 |
@@ -57,6 +57,7 @@ next are the cells that connect the pentagons, in the picture marked as blue, th
 | 2->6   | 180-185 |
 | 2->10  | 186-191 |
 
+## Triangles
 Between those lines connecting the pentagons there are triangles of thexagon cells that are numbered next
 ![](MadisMoon1Triangle0-1-8.png)
 
