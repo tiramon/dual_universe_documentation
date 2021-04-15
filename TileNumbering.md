@@ -63,6 +63,9 @@ Between those lines connecting the pentagons there are triangles of thexagon cel
 
 | Pentagon triangle corners | Numbering direcion |Tile numbers on Madis Moon 1 |
 |-------------|-----------|-------|
+| 0,1,8   | 0 -> 8   | 192-255
+| 0,1,11  | 1 -> 11  | 256-319
+| 0,5,11  | 0 -> 11  | 320-383
 | 0,4,5   | 0 -> 5   | 384-447 |
 | 0,4,8   | 0 -> 4   | 448-511
 | 4,8,9   | 4 -> 9   | 512-575
